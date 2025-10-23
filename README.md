@@ -17,4 +17,4 @@ An AI-powered disease prediction app that predicts possible diseases based on us
 My AI/ML Bootcamp at **TechCrush** — proving you can learn, build, and deploy from just a phone 📱🔥  
 
 ## 👇 Live Demo
-(Link to Hugging Face Space will go here)
+Ridor/disease-prediction-app
